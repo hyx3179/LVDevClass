@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="DMM.lvlib" Type="Library" URL="../DMM/DMM.lvlib"/>
+		<Item Name="DP.lvlib" Type="Library" URL="../DP/DP.lvlib"/>
 		<Item Name="依赖关系" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="Keithley 2000.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Keithley 2000/Keithley 2000.lvlib"/>
